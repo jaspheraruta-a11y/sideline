@@ -1,0 +1,6 @@
+{
+  "name": "Viral Hayma: Exclusive Pay-Per-View Documentary",
+  "description": "Exclusive 4K deep-dive documentary and engineering system breakdown of a real-world software engineering capstone defense, source code, and architecture blueprints.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
