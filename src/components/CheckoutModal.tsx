@@ -24,7 +24,7 @@ export const CheckoutModal: React.FC<CheckoutModalProps> = ({
   onClose,
   onSuccessUnlock,
 }) => {
-  const [selectedMethod, setSelectedMethod] = useState<'online' | 'manual'>('online');
+  const [selectedMethod, setSelectedMethod] = useState<'online' | 'manual'>('manual');
   const [name, setName] = useState<string>('');
   const [email, setEmail] = useState<string>('');
   const [referenceNo, setReferenceNo] = useState<string>('');
